@@ -4,13 +4,13 @@ import search_algorithms as sa
 
 # Tree Structure for the Examples
 
-# 					   --> j 
-# 					   |   |
-# 		--> c ----> f -|   | ---> l
-# 		| 			   |   | 	  |
-# 		| 			   --> i 	  |
-# 	 	| 					      v
-# s --- |-> b ----> e ---> h ---> k
+# 				--> j 
+# 				|   |
+# 		--> c ----> f - |    ---> l
+# 		| 		|   | 	  |
+# 		| 		--> i 	  |
+# 	 	| 			  v
+# 	s ------|-> b ----> e ---> h ---> k
 # 		|   ^ \	    | 			  
 # 		|   |   \   | ---> g 
 # 		|   |     \ |
