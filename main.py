@@ -1,7 +1,5 @@
 import search_algorithms as sa
 
-testing = 1
-
 # --------------------------- PROGRAM Begin
 
 # Tree Structure for the Examples
