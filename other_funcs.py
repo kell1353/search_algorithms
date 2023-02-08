@@ -1,7 +1,5 @@
 #-------------------- Other functions used in the algorithms
 
-testing = 2
-
 # defining the node class
 #-------------------------------------------------------------------
 class Node:

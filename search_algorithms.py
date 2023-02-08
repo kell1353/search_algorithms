@@ -5,8 +5,6 @@ import numpy as np
 import math as m
 import sys 
 
-testing = 3
-
 # UNINFROMED SEARCH METHODS (some)
 
 # Best-first Search (Time complexity: O(nlogn))
